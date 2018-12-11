@@ -1,0 +1,144 @@
+{
+  "stations": [
+    {
+      "index": 0,
+      "name": "DJKA"
+    },
+    {
+      "index": 1,
+      "name": "JAKABARING"
+    },
+    {
+      "index": 2,
+      "name": "POLRESTA"
+    },
+    {
+      "index": 3,
+      "name": "AMPERA"
+    },
+    {
+      "index": 4,
+      "name": "CINDE"
+    },
+    {
+      "index": 5,
+      "name": "DISHUB"
+    },
+    {
+      "index": 6,
+      "name": "SRIWIJAYA"
+    },
+    {
+      "index": 7,
+      "name": "DEMANG"
+    },
+    {
+      "index": 8,
+      "name": "DEMPO"
+    },
+    {
+      "index": 9,
+      "name": "RSUD"
+    },
+    {
+      "index": 10,
+      "name": "PUNTI"
+    },
+    {
+      "index": 11,
+      "name": "ASRAMA"
+    },
+    {
+      "index": 12,
+      "name": "BANDARA"
+    }
+  ],
+  "pair_station": [
+    {
+      "name1" : "DJKA",
+      "name2" : "JAKABARING",
+      "price" : 0,
+      "time" : 3
+    },
+    {
+      "name1" : "JAKABARING",
+      "name2" : "POLRESTA",
+      "price" : 0,
+      "time" : 5
+    },
+    {
+      "name1" : "POLRESTA",
+      "name2" : "AMPERA",
+      "price" : 0,
+      "time" : 4
+    },
+    {
+      "name1" : "AMPERA",
+      "name2" : "CINDE",
+      "price" : 0,
+      "time" : 5
+    },
+    {
+      "name1" : "CINDE",
+      "name2" : "DISHUB",
+      "price" : 0,
+      "time" : 5
+    },
+    {
+      "name1" : "DISHUB",
+      "name2" : "SRIWIJAYA",
+      "price" : 0,
+      "time" : 3
+    },
+    {
+      "name1" : "SRIWIJAYA",
+      "name2" : "DEMANG",
+      "price" : 0,
+      "time" : 7
+    },
+    {
+      "name1" : "DEMANG",
+      "name2" : "DEMPO",
+      "price" : 0,
+      "time" : 4
+    },
+    {
+      "name1" : "DEMPO",
+      "name2" : "RSUD",
+      "price" : 0,
+      "time" : 3
+    },
+    {
+      "name1" : "RSUD",
+      "name2" : "PUNTI",
+      "price" : 0,
+      "time" : 4
+    },
+    {
+      "name1" : "PUNTI",
+      "name2" : "ASRAMA",
+      "price" : 0,
+      "time" : 7
+    },
+    {
+      "name1" : "ASRAMA",
+      "name2" : "BANDARA",
+      "price" : 0,
+      "time" : 12
+    }
+  ],
+  "schedule": [
+    {
+      "index" : "01",
+      "time" : [
+        "04:37", "05:14", "05:51"
+      ]
+    },
+    {
+      "index" : "1211",
+      "time" : [
+        "06:15", "06:47", "07:29"
+      ]
+    }
+  ]
+}
