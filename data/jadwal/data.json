@@ -2,55 +2,81 @@
   "stations": [
     {
       "index": 0,
-      "name": "DJKA"
+      "name": "DJKA",
+      "xPos": 199.5,
+      "yPos": 199.9
     },
     {
       "index": 1,
-      "name": "JAKABARING"
+      "name": "JAKABARING",
+      "xPos": 197.7,
+      "yPos": 273.8
     },
     {
       "index": 2,
-      "name": "POLRESTA"
+      "name": "POLRESTA",
+      "xPos": 216.6,
+      "yPos": 379.7
     },
     {
       "index": 3,
-      "name": "AMPERA"
+      "name": "AMPERA",
+      "xPos": 257.6,
+      "yPos": 451.6
     },
     {
       "index": 4,
-      "name": "CINDE"
+      "name": "CINDE",
+      "xPos": 300.5,
+      "yPos": 524.6
     },
     {
       "index": 5,
-      "name": "DISHUB"
+      "name": "DISHUB",
+      "xPos": 269.6,
+      "yPos": 623.5
     },
     {
       "index": 6,
-      "name": "SRIWIJAYA"
+      "name": "SRIWIJAYA",
+      "xPos": 278.6,
+      "yPos": 737.4
     },
     {
       "index": 7,
-      "name": "DEMANG"
+      "name": "DEMANG",
+      "xPos": 359.5,
+      "yPos": 746.4
     },
     {
       "index": 8,
-      "name": "DEMPO"
+      "name": "DEMPO",
+      "xPos": 424.4,
+      "yPos": 718.5
     },
     {
       "index": 9,
-      "name": "RSUD"
+      "name": "RSUD",
+      "xPos": 470.3,
+      "yPos": 796.4
     },
     {
       "index": 10,
-      "name": "PUNTI"
+      "name": "PUNTI",
+      "xPos": 521.2,
+      "yPos": 919.3
     },
     {
       "index": 11,
-      "name": "ASRAMA"
+      "name": "ASRAMA",
+      "xPos": 521.2,
+      "yPos": 1012.2
     },
     {
       "index": 12,
-      "name": "BANDARA"
+      "name": "BANDARA",
+      "xPos": 521.2,
+      "yPos": 1090.2
     }
   ],
   "pair_station": [
