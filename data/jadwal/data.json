@@ -3,80 +3,80 @@
     {
       "index": 0,
       "name": "DJKA",
-      "xPos": 199.5,
-      "yPos": 115.9
+      "xPos": 851,
+      "yPos": 1073
     },
     {
       "index": 1,
       "name": "JAKABARING",
-      "xPos": 202.7,
-      "yPos": 273.8
+      "xPos": 851,
+      "yPos": 1000
     },
     {
       "index": 2,
       "name": "POLRESTA",
-      "xPos": 216.6,
-      "yPos": 379.7
+      "xPos": 851,
+      "yPos": 912
     },
     {
       "index": 3,
       "name": "AMPERA",
-      "xPos": 257.6,
-      "yPos": 451.6
+      "xPos": 760,
+      "yPos": 780
     },
     {
       "index": 4,
       "name": "CINDE",
-      "xPos": 300.5,
-      "yPos": 524.6
+      "xPos": 680,
+      "yPos": 722
     },
     {
       "index": 5,
       "name": "DISHUB",
-      "xPos": 269.6,
-      "yPos": 623.5
+      "xPos": 582,
+      "yPos": 729
     },
     {
       "index": 6,
       "name": "SRIWIJAYA",
-      "xPos": 278.6,
-      "yPos": 737.4
+      "xPos": 439,
+      "yPos": 741
     },
     {
       "index": 7,
       "name": "DEMANG",
-      "xPos": 359.5,
-      "yPos": 746.4
+      "xPos": 443,
+      "yPos": 605
     },
     {
       "index": 8,
       "name": "DEMPO",
-      "xPos": 424.4,
-      "yPos": 718.5
+      "xPos": 484,
+      "yPos": 533
     },
     {
       "index": 9,
       "name": "RSUD",
-      "xPos": 470.3,
-      "yPos": 796.4
+      "xPos": 413,
+      "yPos": 462
     },
     {
       "index": 10,
       "name": "PUNTI",
-      "xPos": 521.2,
-      "yPos": 919.3
+      "xPos": 343,
+      "yPos": 390
     },
     {
       "index": 11,
       "name": "ASRAMA",
-      "xPos": 521.2,
-      "yPos": 1012.2
+      "xPos": 326,
+      "yPos": 252
     },
     {
       "index": 12,
       "name": "BANDARA",
-      "xPos": 521.2,
-      "yPos": 1090.2
+      "xPos": 295,
+      "yPos": 103
     }
   ],
   "pair_station": [
