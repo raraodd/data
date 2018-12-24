@@ -38,7 +38,7 @@
     },
     {
       "index": 6,
-      "name": "SRIWIJAYA",
+      "name": "BUMI SRIWIJAYA",
       "xPos": 439,
       "yPos": 741
     },
@@ -50,7 +50,7 @@
     },
     {
       "index": 8,
-      "name": "DEMPO",
+      "name": "GARUDA DEMPO",
       "xPos": 484,
       "yPos": 533
     },
@@ -62,7 +62,7 @@
     },
     {
       "index": 10,
-      "name": "PUNTI",
+      "name": "PUNTI KAYU",
       "xPos": 343,
       "yPos": 390
     },
@@ -112,36 +112,36 @@
     },
     {
       "name1" : "DISHUB",
-      "name2" : "SRIWIJAYA",
+      "name2" : "BUMI SRIWIJAYA",
       "price" : 0,
       "time" : 3
     },
     {
-      "name1" : "SRIWIJAYA",
+      "name1" : "BUMI SRIWIJAYA",
       "name2" : "DEMANG",
       "price" : 0,
       "time" : 7
     },
     {
       "name1" : "DEMANG",
-      "name2" : "DEMPO",
+      "name2" : "GARUDA DEMPO",
       "price" : 0,
       "time" : 4
     },
     {
-      "name1" : "DEMPO",
+      "name1" : "GARUDA DEMPO",
       "name2" : "RSUD",
       "price" : 0,
       "time" : 3
     },
     {
       "name1" : "RSUD",
-      "name2" : "PUNTI",
+      "name2" : "PUNTI KAYU",
       "price" : 0,
       "time" : 4
     },
     {
-      "name1" : "PUNTI",
+      "name1" : "PUNTI KAYU",
       "name2" : "ASRAMA",
       "price" : 0,
       "time" : 7
